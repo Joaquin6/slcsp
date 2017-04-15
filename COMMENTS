@@ -1,0 +1,11 @@
+I wrote the application on Node server.
+It is running on the latest stable version of node, v6.10.1
+NPM version used, v3.10.10
+
+Make sure you have the latest stable version of Node installed.
+I developed on a MAC so im not too clear on the possible bugs on a windows machine.
+
+To get started, it is as simple as running the following command in your terminal:
+
+	npm i && npm start
+
