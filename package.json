@@ -6,27 +6,11 @@
   "author": "Joaquin Briceno <joaquinbriceno1@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/Joaquin6/slcsp",
-  "config": {
-    "port": "8080",
-    "path": "./",
-    "inspector": "./node_modules/.bin/node-inspector"
-  },
   "engines": {
     "node": ">=6.10.1",
     "npm": "~3.10.10"
   },
   "scripts": {
-    "env": "env",
-    "inspector": "$npm_package_config_inspector",
-    "server": "node $npm_package_main",
-    "start": "npm run server",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "csv-parse": "^1.2.0"
-  },
-  "devDependencies": {
-    "node-debug": "^0.1.0",
-    "node-inspector": "^0.12.8"
+    "start": "node ./index.js"
   }
 }
