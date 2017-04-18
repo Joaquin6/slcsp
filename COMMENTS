@@ -7,5 +7,4 @@ I developed on a MAC so im not too clear on the possible bugs on a windows machi
 
 To get started, it is as simple as running the following command in your terminal:
 
-	npm i && npm start
-
+	npm start
