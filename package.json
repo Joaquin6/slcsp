@@ -1,16 +1,12 @@
 {
   "name": "slcsp",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Determine the second lowest cost silver plan (SLCSP) for a group of ZIP Codes",
-  "main": "./index.js",
+  "main": "index.js",
   "author": "Joaquin Briceno <joaquinbriceno1@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/Joaquin6/slcsp",
-  "engines": {
-    "node": ">=6.10.1",
-    "npm": "~3.10.10"
-  },
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node index.js"
   }
 }
