@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "chalk": "^2.3.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "nexe": "^2.0.0-rc.22"
   }
 }
